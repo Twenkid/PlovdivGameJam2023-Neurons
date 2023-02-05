@@ -1,15 +1,16 @@
-# Neurons and Weeds Game Suite Project @ Plovdiv Game Jam 2023
+# Neurons @ Plovdiv Game Jam 2023
+
+<s>Neurons and Weeds Game Suite Project</s>
 
 ![image](https://github.com/Twenkid/PlovdivGameJam2023-Neurons-And-Weeds/blob/main/Slides/Neurons-and-Weeds-Logo.png)
 
 ![image](https://user-images.githubusercontent.com/23367640/216789026-f65c042c-582b-4841-b988-36a48181f53b.png)
 
-# Неврони и Плевели
+# Неврони
 
 Неврони – Tosh (Тош/Twenkid)
-Плевели – Chronicide (Георги)
 
-Абстрактни, Логически, Пъзел, Симулация, Научни,
+Абстрактна, Логическа, Пъзел, Симулация, Научна
 
 Неврони – прототип за походова и реално времева стратегия за компютър с управление с много клавиши и мишка
 
@@ -31,4 +32,5 @@ Hexagonal grid wireframe black high contrast crossing lines green
 weeds cartoony deviantart artstation black background
 ```
 
+Плевели – Chronicide (Георги) - в началото мислихме заедно, но измислихме две отделни игри.
 ![image](https://user-images.githubusercontent.com/23367640/216789510-8ebfa7f2-db12-43d8-a82d-86d964b68044.png)
