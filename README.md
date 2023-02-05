@@ -4,7 +4,7 @@
 
 ![image](https://github.com/Twenkid/PlovdivGameJam2023-Neurons/blob/main/Slides/IMG_20230205_150846.jpg)
 
-![image](https://user-images.githubusercontent.com/23367640/216789026-f65c042c-582b-4841-b988-36a48181f53b.png)
+
 
 # Неврони
 
