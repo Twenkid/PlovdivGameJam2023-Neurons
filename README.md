@@ -1,5 +1,7 @@
 # Neurons and Weeds Game Suite Project @ Plovdiv Game Jam 2023
 
+![image](https://github.com/Twenkid/PlovdivGameJam2023-Neurons-And-Weeds/blob/main/Slides/Neurons-and-Weeds-Logo.png)
+
 ![image](https://user-images.githubusercontent.com/23367640/216789026-f65c042c-582b-4841-b988-36a48181f53b.png)
 
 # Неврони и Плевели
